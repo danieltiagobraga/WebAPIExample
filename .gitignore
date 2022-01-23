@@ -1,0 +1,9 @@
+.vs
+WebAPIExample/bin
+WebAPIExample/obj
+WebAPIExample.Data/bin
+WebAPIExample.Data/obj
+WebAPIExample.Domain/bin
+WebAPIExample.Domain/obj
+WebAPIExample.Services/bin
+WebAPIExample.Services/obj
